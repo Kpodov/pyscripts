@@ -43,7 +43,7 @@ while True:
         connectionSocket.send(header.encode())
 
         #Close client socket
-		connectionSocket.close()
+        connectionSocket.close()
 
 serverSocket.close()
 
