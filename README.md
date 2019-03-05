@@ -1,3 +1,3 @@
-# pyscripts
+# Pyscripts
 
-1. dico.py: It returns the definition of a word
+1. Bunch of py scripts for diverse uses
